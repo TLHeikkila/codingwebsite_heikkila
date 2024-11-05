@@ -1,0 +1,128 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Josefin Sans', sans-serif; /* Use your preferred font */
+    line-height: 1.8;
+    color: #333; /* Dark gray text for readability */
+    background-color: #f4f4f4; /* Light gray background */
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #ff8c00; /* Bright orange */
+    padding: 20px;
+    text-align: center;
+    color: white; /* White text for contrast */
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Section headings */
+h2 {
+    color: #1e90ff; /* Dodger blue for headings */
+    margin: 20px 0 10px;
+}
+
+/* Paragraph styling */
+p {
+    margin-bottom: 15px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #ff8c00; /* Same orange as header */
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Links styling */
+a {
+    color: #1e90ff; /* Dodger blue for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover for better UX */
+}
+
+/* Additional styling for visual hierarchy */
+h1 {
+    color: #ff4500; /* OrangeRed for main title */
+    margin-bottom: 20px;
+}
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Josefin Sans', sans-serif; /* Use your preferred font */
+    line-height: 1.8;
+    color: #333; /* Dark gray text for readability */
+    background-color: #f4f4f4; /* Light gray background */
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #ff8c00; /* Bright orange */
+    padding: 20px;
+    text-align: center;
+    color: white; /* White text for contrast */
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Section headings */
+h2 {
+    color: #1e90ff; /* Dodger blue for headings */
+    margin: 20px 0 10px;
+}
+
+/* Paragraph styling */
+p {
+    margin-bottom: 15px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #ff8c00; /* Same orange as header */
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Links styling */
+a {
+    color: #1e90ff; /* Dodger blue for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover for better UX */
+}
+
+/* Additional styling for visual hierarchy */
+h1 {
+    color: #ff4500; /* OrangeRed for main title */
+    margin-bottom: 20px;
+}
+
+/* CSS Document */
+
